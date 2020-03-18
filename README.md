@@ -1,24 +1,20 @@
-# README
+# Getting Your Feet Wet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a basic toy-app project created with rails scaffolding generator.
 
-Things you may want to cover:
 
-* Ruby version
+# Technologies
 
-* System dependencies
+* Ruby v~2.5
 
-* Configuration
+* Rails v~2.6
 
-* Database creation
+* Heroku
 
-* Database initialization
+* Visual studio code
 
-* How to run the test suite
+# Authors
 
-* Services (job queues, cache servers, search engines, etc.)
+* Akintola Rahmat
 
-* Deployment instructions
-
-* ...
+* Maryfel Mendoza
